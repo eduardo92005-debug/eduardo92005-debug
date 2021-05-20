@@ -47,13 +47,13 @@
   <h3> :telephone: &nbsp; Contatos</h3>
 </p>
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="eduardo92005@gmail.com" alt="Gmail">
   <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=eduardo92005@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" alt="Linkedin">
   <img height=30 src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5579996100527&text=Telefone%20pessoal%20e%20profissional%20para%20contato!" alt="WhatsApp">
   <img height=30 src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5579996100527&text=Telefone%20pessoal%20e%20profissional%20para%20contato!"/></a>
 
 </p>  
