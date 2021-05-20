@@ -12,7 +12,7 @@
 
 &nbsp;  <a href="#" alt="Dados">
 <img src="https://www.globaltec.com.br/wp-content/uploads/2021/01/5ab1a21aaafa93397c0d6eedcb24731e-computer-laptop-icon-by-vexels.png" width="30px" align='center'></a> Explorando o mundo da computação e da ciências de dados.
-- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="www.ufs.br">Universidade Federal de Sergipe</a>.
+- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.ufs.br">Universidade Federal de Sergipe</a>.
 - 💼 &nbsp; Trabalhando como **Professor de Computação e Matemática** na plataforma online <a href="https://www.superprof.com.br/">Superprof</a> e **Programador Python Freelancer**
 
 </p>
@@ -47,7 +47,7 @@
   <h3> :telephone: &nbsp; Contatos</h3>
 </p>
 <p align="left">
-  <a href="eduardo92005@gmail.com" alt="Gmail">
+  <a href="mailto:eduardo92005@gmail.com" alt="Gmail">
   <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=eduardo92005@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" alt="Linkedin">
