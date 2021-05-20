@@ -18,24 +18,24 @@
 </p>
 <h3> 🤔 &nbsp; Tópicos de interesse </h3>
 
-  <code><img height="30" src="https://img.shields.io/badge/-Power%20BI-171615?style=plastic&logo=Power%20BI" alt="BI"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/-Wolfram%20Alpha-171615?style=plastic&labelColor=171615&logo=Wolfram&logoColor=red" alt="Wolf"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/-Robotics-171615?style=plastic&labelColor=171615&logo=Instructables&logoColor=yellow&logoWidth=40)" alt="Rob"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=plastic&labelColor=171615&logo=Android" alt="Android"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/-Game%20Dev.-171615?style=plastic&labelColor=171615&logo=Unreal%20Engine" alt="Unreal"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/-R-171615?style=plastic&labelColor=171615&logo=R&logoColor=blue" alt="R"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/-Hackaday-171615?style=plastic&labelColor=171615&logo=Hackaday" alt="Aday"/></code>
-    <code><img height="30" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=plastic&labelColor=171615&logo=Designer%20News" alt="DN"/></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Power%20BI-171615?style=plastic&logo=Power%20BI" style="borderRadius=9000px 30px;" alt="BI"/></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Wolfram%20Alpha-171615?style=plastic&labelColor=171615&logo=Wolfram&logoColor=red" alt="Wolf"/></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Robotics-171615?style=plastic&labelColor=171615&logo=Instructables&logoColor=yellow&logoWidth=40)" alt="Rob"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=plastic&labelColor=171615&logo=Android" alt="Android"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/-Game%20Dev.-171615?style=plastic&labelColor=171615&logo=Unreal%20Engine" alt="Unreal"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/-R-171615?style=plastic&labelColor=171615&logo=R&logoColor=blue" alt="R"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/-Hackaday-171615?style=plastic&labelColor=171615&logo=Hackaday" alt="Aday"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=plastic&labelColor=171615&logo=Designer%20News" alt="DN"/></code>
 <h3> :memo: &nbsp; Coding Languages </h3>
 
-   <code><img height="30" src="https://img.shields.io/badge/-Python-171615?style=plastic&labelColor=171615&logo=Python" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-Javascript-171615?style=plastic&labelColor=171615&logo=Javascript" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-Java-171615?style=plastic&labelColor=171615&logo=Java" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-HTML5-171615?style=plastic&labelColor=171615&logo=HTML5" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-CSharp-171615?style=plastic&labelColor=171615&logo=C%20Sharp" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-C-171615?style=plastic&logo=C&logoColor=blue" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-Delphi-171615?style=plastic&logo=Delphi&logoColor=red" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-VBA-171615?style=plastic&logo=Microsoft%20Excel" alt="Python"/></code>
+   <code><img height="25" src="https://img.shields.io/badge/-Python-171615?style=plastic&labelColor=171615&logo=Python" alt="Python"/></code>
+   <code><img height="25" src="https://img.shields.io/badge/-Javascript-171615?style=plastic&labelColor=171615&logo=Javascript" alt="Python"/></code>
+   <code><img height="25" src="https://img.shields.io/badge/-Java-171615?style=plastic&labelColor=171615&logo=Java" alt="Python"/></code>
+   <code><img height="25" src="https://img.shields.io/badge/-HTML5-171615?style=plastic&labelColor=171615&logo=HTML5" alt="Python"/></code>
+   <code><img height="25" src="https://img.shields.io/badge/-CSharp-171615?style=plastic&labelColor=171615&logo=C%20Sharp" alt="Python"/></code>
+   <code><img height="25" src="https://img.shields.io/badge/-C-171615?style=plastic&logo=C&logoColor=blue" alt="Python"/></code>
+   <code><img height="25" src="https://img.shields.io/badge/-Delphi-171615?style=plastic&logo=Delphi&logoColor=red" alt="Python"/></code>
+   <code><img height="25" src="https://img.shields.io/badge/-VBA-171615?style=plastic&logo=Microsoft%20Excel" alt="Python"/></code>
 
 
 <p align="left">
@@ -43,9 +43,9 @@
 </p>
 <p align="left">
   <a href="mailto:eduardo92005@gmail.com" alt="Gmail">
-  <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=plastic&labelColor=FF0000&logo=gmail&logoColor=white&link=eduardo92005@gmail.com" /></a>
+  <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=eduardo92005@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" alt="Linkedin">
-  <img height=30 src="https://img.shields.io/badge/-Linkedin-0e76a8?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" /></a>
+  <img height=30 src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" /></a>
 
 </p>  
