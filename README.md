@@ -13,7 +13,7 @@
 &nbsp;  <a href="#" alt="Dados">
 <img src="https://www.globaltec.com.br/wp-content/uploads/2021/01/5ab1a21aaafa93397c0d6eedcb24731e-computer-laptop-icon-by-vexels.png" width="30px" align='center'></a> Explorando o mundo da computação e da ciências de dados.
 - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="www.ufs.br">Universidade Federal de Sergipe</a>.
-- 💼 &nbsp; Trabalhando como **Professor de Computação e Matemática** na plataforma online <a href="https://www.superprof.com.br/">Superprof</a>
+- 💼 &nbsp; Trabalhando como **Professor de Computação e Matemática** na plataforma online <a href="https://www.superprof.com.br/">Superprof</a> e **Programador Python Freelancer**
 
 </p>
 <h3> 🤔 &nbsp; Tópicos de interesse </h3>
