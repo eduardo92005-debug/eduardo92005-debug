@@ -27,16 +27,16 @@
     <code><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=262673" alt="R"/></code>
     <code><img height="30" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=flat&logo=Designer%20News&color=262673" alt="DN"/></code>
     
-<h3> :memo: &nbsp; Coding Languages </h3>
+<h3> :memo: &nbsp; Linguagens de programação </h3>
 
-   <code><img height="25" src="https://img.shields.io/badge/-Python-171615?style=flat&labelColor=171615&logo=Python" alt="Python"/></code>
-   <code><img height="25" src="https://img.shields.io/badge/-Javascript-171615?style=flat&labelColor=171615&logo=Javascript" alt="Python"/></code>
-   <code><img height="25" src="https://img.shields.io/badge/-Java-171615?style=flat&labelColor=171615&logo=Java" alt="Python"/></code>
-   <code><img height="25" src="https://img.shields.io/badge/-HTML5-171615?style=flat&labelColor=171615&logo=HTML5" alt="Python"/></code>
-   <code><img height="25" src="https://img.shields.io/badge/-CSharp-171615?style=flat&labelColor=171615&logo=C%20Sharp" alt="Python"/></code>
-   <code><img height="25" src="https://img.shields.io/badge/-C-171615?style=flat&logo=C&logoColor=blue" alt="Python"/></code>
-   <code><img height="25" src="https://img.shields.io/badge/-Delphi-171615?style=flat&logo=Delphi&logoColor=red" alt="Python"/></code>
-   <code><img height="25" src="https://img.shields.io/badge/-VBA-171615?style=flat&logo=Microsoft%20Excel" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/-Python-171615?style=flat&logo=Python&color=262673" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/-Javascript-171615?style=flat&logo=Javascript&color=262673" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/-Java-171615?style=flat&logo=Java&color=262673" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/-HTML5-171615?style=flat&logo=HTML5&color=262673" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/-CSharp-171615?style=flat&logo=C%20Sharp&color=262673" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/-C-171615?style=flat&logo=C&logoColor=blue&color=262673" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/-Delphi-171615?style=flat&logo=Delphi&logoColor=red&color=262673" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/-VBA-171615?style=flat&logo=Microsoft%20Excel&color=262673" alt="Python"/></code>
 
 
 <p align="left">
