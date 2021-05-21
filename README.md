@@ -1,5 +1,4 @@
 <html>
-<body>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left">
 <h2><a id="user-content--𝐇𝐞𝐥𝐥𝐨-𝐭𝐡𝐞𝐫𝐞-𝐟𝐞𝐥𝐥𝐨𝐰-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜-" class="anchor" aria-hidden="true" href="#-𝐇𝐞𝐥𝐥𝐨-𝐭𝐡𝐞𝐫𝐞-𝐟𝐞𝐥𝐥𝐨𝐰-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜-">
@@ -19,7 +18,6 @@
 
 </p>
 <h3> 🤔 &nbsp; Tópicos de interesse </h3>
-
   <code><img height="30" src="https://img.shields.io/badge/-Power%20BI-171615?style=flat&logo=Power%20BI" style="borderRadius=9000px 30px;" alt="BI"/></code>
   <code><img height="25" src="https://img.shields.io/badge/-Wolfram%20Alpha-171615?style=plastic&labelColor=171615&logo=Wolfram&logoColor=red" alt="Wolf"/></code>
   <code><img height="25" src="https://img.shields.io/badge/-Robotics-171615?style=plastic&labelColor=171615&logo=Instructables&logoColor=yellow&logoWidth=40)" alt="Rob"/></code>
@@ -28,6 +26,7 @@
     <code><img height="25" src="https://img.shields.io/badge/-R-171615?style=plastic&labelColor=171615&logo=R&logoColor=blue" alt="R"/></code>
     <code><img height="25" src="https://img.shields.io/badge/-Hackaday-171615?style=plastic&labelColor=171615&logo=Hackaday" alt="Aday"/></code>
     <code><img height="25" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=plastic&labelColor=171615&logo=Designer%20News" alt="DN"/></code>
+    
 <h3> :memo: &nbsp; Coding Languages </h3>
 
    <code><img height="25" src="https://img.shields.io/badge/-Python-171615?style=plastic&labelColor=171615&logo=Python" alt="Python"/></code>
@@ -44,12 +43,11 @@
   <h3> :telephone: &nbsp; Contatos</h3>
 </p>
 <p align="left">
-  <a href="mailto:eduardo92005@gmail.com" alt="Gmail">
+  <a address="mailto:eduardo92005@gmail.com" alt="Gmail">
   <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=eduardo92005@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" alt="Linkedin">
   <img height=30 src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" /></a>
 
 </p>
-</body>
 </html>
