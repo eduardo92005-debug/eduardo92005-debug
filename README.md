@@ -7,7 +7,7 @@
 </svg>
 </a> 
 <strong>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! </strong>
-<img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a></h2>
+<a href="#"><img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a></h2>
 </p>
 <p align="left"> 
   <h3> :man: &nbsp;Sobre mim </h3>
@@ -20,8 +20,8 @@
 </p>
 <h3> 🤔 &nbsp; Tópicos de interesse </h3>
 
-  <strike><img height="25" src="https://img.shields.io/badge/-Power%20BI-171615?style=plastic&logo=Power%20BI" style="borderRadius=9000px 30px;" alt="BI"/></strike>
-  <strike><img height="25" src="https://img.shields.io/badge/-Wolfram%20Alpha-171615?style=plastic&labelColor=171615&logo=Wolfram&logoColor=red" alt="Wolf"/></strike>
+  <code><img height="30" src="https://img.shields.io/badge/-Power%20BI-171615?style=flat&logo=Power%20BI" style="borderRadius=9000px 30px;" alt="BI"/></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Wolfram%20Alpha-171615?style=plastic&labelColor=171615&logo=Wolfram&logoColor=red" alt="Wolf"/></code>
   <code><img height="25" src="https://img.shields.io/badge/-Robotics-171615?style=plastic&labelColor=171615&logo=Instructables&logoColor=yellow&logoWidth=40)" alt="Rob"/></code>
     <code><img height="25" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=plastic&labelColor=171615&logo=Android" alt="Android"/></code>
     <code><img height="25" src="https://img.shields.io/badge/-Game%20Dev.-171615?style=plastic&labelColor=171615&logo=Unreal%20Engine" alt="Unreal"/></code>
