@@ -54,7 +54,7 @@
   <code><img height="30" src="https://img.shields.io/badge/-Django-171615?style=flat&logo=Django&color=ff8566" alt="Python"/></code>
   <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=ff8566&logoColor=white" alt="Python"/></code>
   <code><img height="30" src="https://img.shields.io/badge/-JQuery-171615?style=flat&logo=JQuery&color=ff8566" alt="Python"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&color=ff8566" alt="Python"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=blue&color=ff8566" alt="Python"/></code>
   <code><img height="30" src="https://img.shields.io/badge/-Vue.js-171615?style=flat&logo=vue-js&color=ff8566" alt="Python"/></code>
   <code><img height="30" src="https://img.shields.io/badge/-Unittest-171615?style=flat&color=ff8566" alt="Python"/></code>
   
