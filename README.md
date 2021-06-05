@@ -61,7 +61,7 @@
   
 </ul>
 <h3> 🎨 &nbsp; Arquitetura e Padrão utilizado recentemente </h3>
-<ul><li><h3> MVC; Factory Method e SOLID </h3></li></ul>
+<ul><li><h3> MVC; Factory e SOLID </h3></li></ul>
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=eduardo92005-debug&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=blue&cache_seconds=2300">
 
