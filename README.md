@@ -18,7 +18,7 @@
 
 </p>
 <h3> 🤔 &nbsp; Tópicos de interesse </h3>
- <code><img height="30" src="https://img.shields.io/badge/Wolfram%20Alpha-4A4A55?style=flat&logo=Wolfram&logoColor=FF3E00" alt="Wolf"/></code>
+ <code><img height="30" src="https://img.shields.io/badge/Wolfram%20Alpha-wine?style=flat&logo=Wolfram&logoColor=FF3E00" alt="Wolf"/></code>
   <code><img height="30" src="https://img.shields.io/badge/Power%20BI-FFA500?style=flat&logo=Power+BI&logoColor=black" style="borderRadius=9000px 30px;" alt="BI"/></code>
   <code><img height="30" src="https://img.shields.io/badge/Robótica-9146FF?style=flat&logo=Instructables&logoColor=white" alt="Rob"/></code>
     <code><img height="30" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=flat&logo=Android&color=262673" alt="Android"/></code>
