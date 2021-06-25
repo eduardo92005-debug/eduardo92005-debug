@@ -48,6 +48,7 @@
   <div class="content" name="entry.2346">
   <h3> 🤔 &nbsp; Tópicos de interesse </h3>
     <div class="container-logos">
+          <code><img height="30" src="https://img.shields.io/badge/Data%20Science-blue?style=flat&logo=Power+BI&logoColor=white" style="borderRadius=9000px 30px;" alt="BI"/></code>
       <code><img height="30" src="https://img.shields.io/badge/Wolfram%20Alpha-wine?style=flat&logo=Wolfram&logoColor=FF3E00" alt="Wolf"/></code>
       <code><img height="30" src="https://img.shields.io/badge/Power%20BI-FFA500?style=flat&logo=Power+BI&logoColor=black" style="borderRadius=9000px 30px;" alt="BI"/></code>
       <code><img height="30" src="https://img.shields.io/badge/Robótica-9146FF?style=flat&logo=Instructables&logoColor=white" alt="Rob"/></code>
