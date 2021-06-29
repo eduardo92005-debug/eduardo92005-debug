@@ -66,7 +66,7 @@
 <main>
 <section class = "sec-body">
   <div class="content" name="entry.2345">
-    <h3> :memo: &nbsp; Linguagens de programação </h3>
+    <h3> :memo: &nbsp; Linguagens </h3>
       <div class="container-logos">
         <code><img height="30" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python"/></code>
         <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="Python"/></code>
