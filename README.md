@@ -35,6 +35,7 @@
   - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.ufs.br">Universidade Federal de Sergipe</a>.
   - 💼 &nbsp; Trabalhando como **Professor de Computação e Matemática** na plataforma online <a
       href="https://www.superprof.com.br/">Superprof</a> e **Programador Python Freelancer**
+  - :eye: &nbsp; Dá uma olhada em um dos jogos que já criei <a href="https://99lab.itch.io/theultimatescroll"> The Ultimate Scroll </a>     
   - ❗ &nbsp; As informações abaixo seguem do maior nível de experiência na tecnologia para o menor.
     
   </article>
