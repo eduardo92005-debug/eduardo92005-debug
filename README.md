@@ -2,7 +2,7 @@
 <main>
     <section id="header">
         <div class="container-img">
-            <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+            <a href="#"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
                 min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
         </div>
         <div class="content"  name="entry.2376">
@@ -50,14 +50,14 @@
   <h3> 🤔 &nbsp; Tópicos de interesse </h3>
     <div class="container-logos">
           <code><a href="https://github.com/eduardo92005-debug/Cienc.Dados"> <img height="30" src="https://img.shields.io/badge/Data%20Science-blue?style=flat&logo=Power+BI&logoColor=white" style="borderRadius=9000px 30px;" alt="BI"/></code>
-      <code><img height="30" src="https://img.shields.io/badge/Wolfram%20Alpha-wine?style=flat&logo=Wolfram&logoColor=FF3E00" alt="Wolf"/></code>
-      <code><img height="30" src="https://img.shields.io/badge/Power%20BI-FFA500?style=flat&logo=Power+BI&logoColor=black" style="borderRadius=9000px 30px;" alt="BI"/></code>
-      <code><img height="30" src="https://img.shields.io/badge/Robótica-9146FF?style=flat&logo=Instructables&logoColor=white" alt="Rob"/></code>
-      <code><img height="30" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=flat&logo=Android&color=262673" alt="Android"/></code>
-      <code><img height="30" src="https://img.shields.io/badge/Game%20Dev.-black?style=flat&logo=Unreal%20Engine&logoColor=white" alt="Unreal"/></code>
-      <code><img height="30" src="https://img.shields.io/badge/-Hackaday-171615?style=flat&logo=Hackaday&color=262673" alt="Aday"/></code>
-      <code><img height="30" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=flat&logo=Designer%20News&color=262673" alt="DN"/></code>
-      <code><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=white" alt="R"/></code>
+      <code><a href="https://github.com/eduardo92005-debug/Matematica"> <img height="30" src="https://img.shields.io/badge/Wolfram%20Alpha-wine?style=flat&logo=Wolfram&logoColor=FF3E00" alt="Wolf"/></code>
+      <code><a href="#"><img height="30" src="https://img.shields.io/badge/Power%20BI-FFA500?style=flat&logo=Power+BI&logoColor=black" style="borderRadius=9000px 30px;" alt="BI"/></code>
+      <code><a href="#"><img height="30" src="https://img.shields.io/badge/Robótica-9146FF?style=flat&logo=Instructables&logoColor=white" alt="Rob"/></code>
+      <code><a href="https://github.com/eduardo92005-debug/Frontend-Cirurgia"><img height="30" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=flat&logo=Android&color=262673" alt="Android"/></code>
+      <code><a href="https://github.com/eduardo92005-debug/Games"><img height="30" src="https://img.shields.io/badge/Game%20Dev.-black?style=flat&logo=Unreal%20Engine&logoColor=white" alt="Unreal"/></code>
+      <code><a href="#"><img height="30" src="https://img.shields.io/badge/-Hackaday-171615?style=flat&logo=Hackaday&color=262673" alt="Aday"/></code>
+      <code><a href="https://github.com/eduardo92005-debug/Design-Patterns"><img height="30" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=flat&logo=Designer%20News&color=262673" alt="DN"/></code>
+      <code><a href="#"><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=white" alt="R"/></code>
     </div>
   </div>
 </section>
