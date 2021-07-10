@@ -57,7 +57,7 @@
       <code><a href="https://github.com/eduardo92005-debug/Games"><img height="30" src="https://img.shields.io/badge/Game%20Dev.-black?style=flat&logo=Unreal%20Engine&logoColor=white" alt="Unreal"/></code>
       <code><a href="#"><img height="30" src="https://img.shields.io/badge/-Hackaday-171615?style=flat&logo=Hackaday&color=262673" alt="Aday"/></code>
       <code><a href="https://github.com/eduardo92005-debug/Design-Patterns"><img height="30" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=flat&logo=Designer%20News&color=262673" alt="DN"/></code>
-      <code><a href="#"><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=white" alt="R"/></code>
+      <code><a href="https://github.com/eduardo92005-debug/Cienc.Dados/tree/main/Econometria"><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=white" alt="R"/></code>
     </div>
   </div>
 </section>
