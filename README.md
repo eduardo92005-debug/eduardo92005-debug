@@ -112,14 +112,16 @@
             <li> 🌎 Web e geral </li>
         </h3>
         <div class="container-logo">
-          <code><img height="30" src="https://img.shields.io/badge/-React-CC342D?style=flat&logo=React&color=ff8566" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Django-171615?style=flat&logo=Django&color=ff8566" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=ff8566&logoColor=white" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-JQuery-171615?style=flat&logo=JQuery&color=ff8566" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Vue.js-171615?style=flat&logo=vue-js&color=ff8566" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Unittest-171615?style=flat&color=ff8566" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=blue&color=ff8566" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Linux-171615?style=flat&logo=Linux&logoColor=black&color=ff8566" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-React-CC342D?style=flat&logo=React&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Django-171615?style=flat&logo=Django&color=262673&logoColor=darkgreen" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=262673&logoColor=563d7c" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-JQuery-171615?style=flat&logo=JQuery&color=262673&logoColor=blue" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Symfony-171615?style=flat&logo=Symfony&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Vue.js-171615?style=flat&logo=Vue.js&color=262673" alt="Python"/></code>
+            <code><img height="30" src="https://img.shields.io/badge/-Svelte-171615?logo=svelte&style=flat&color=262673&logoColor=orange" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Unittest-171615?style=flat&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=blue&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Linux-171615?style=flat&logo=Linux&logoColor=black&color=262673" alt="Python"/></code>
         </div>
     </ul>
   </div>
