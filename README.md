@@ -30,11 +30,10 @@
   <h3> :man: &nbsp;Sobre mim </h3>
 
   &nbsp; <a href="#" alt="Dados">
-      <img src="https://www.globaltec.com.br/wp-content/uploads/2021/01/5ab1a21aaafa93397c0d6eedcb24731e-computer-laptop-icon-by-vexels.png"
-          width="30px" align='center'></a> Explorando o mundo da computação e da ciências de dados.
+      💻 Explorando o mundo da computação e da ciências de dados.
   - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.ufs.br">Universidade Federal de Sergipe</a>.
-  - 💼 &nbsp; Trabalhando como **Analista de Suporte de Informatica na Cencosud**; **Professor de Computação e Matemática** na plataforma online <a
-      href="https://www.superprof.com.br/">Superprof</a> e **Programador Python Freelancer**
+  - 💼 &nbsp; Trabalhando como **Estagiario de TI no CRECI-SE**; **Professor de Computação e Matemática** na plataforma online <a
+      href="https://www.superprof.com.br/">Superprof</a> e **Programador Python, PHP, Web freelancer**
   - 👀 &nbsp; Dá uma olhada em um dos jogos que já criei <a href="https://99lab.itch.io/theultimatescroll"> The Ultimate Scroll </a>     
   - ❗❗ &nbsp; As informações abaixo seguem do maior nível de experiência na tecnologia para o menor.
     
@@ -49,15 +48,23 @@
   <div class="content" name="entry.2346">
   <h3> 🤔 &nbsp; Tópicos de interesse </h3>
     <div class="container-logos">
-          <code><a href="https://github.com/eduardo92005-debug/Cienc.Dados"> <img height="30" src="https://img.shields.io/badge/Data%20Science-blue?style=flat&logo=Power+BI&logoColor=white" style="borderRadius=9000px 30px;" alt="BI"/></code>
-      <code><a href="https://github.com/eduardo92005-debug/Matematica"> <img height="30" src="https://img.shields.io/badge/Wolfram%20Alpha-wine?style=flat&logo=Wolfram&logoColor=FF3E00" alt="Wolf"/></code>
-      <code><a href="#"><img height="30" src="https://img.shields.io/badge/Power%20BI-FFA500?style=flat&logo=Power+BI&logoColor=black" style="borderRadius=9000px 30px;" alt="BI"/></code>
-      <code><a href="#"><img height="30" src="https://img.shields.io/badge/Robótica-9146FF?style=flat&logo=Instructables&logoColor=white" alt="Rob"/></code>
-      <code><a href="https://github.com/eduardo92005-debug/Frontend-Cirurgia"><img height="30" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=flat&logo=Android&color=262673" alt="Android"/></code>
-      <code><a href="https://github.com/eduardo92005-debug/Games"><img height="30" src="https://img.shields.io/badge/Game%20Dev.-black?style=flat&logo=Unreal%20Engine&logoColor=white" alt="Unreal"/></code>
-      <code><a href="#"><img height="30" src="https://img.shields.io/badge/-Hackaday-171615?style=flat&logo=Hackaday&color=262673" alt="Aday"/></code>
-      <code><a href="https://github.com/eduardo92005-debug/Design-Patterns"><img height="30" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=flat&logo=Designer%20News&color=262673" alt="DN"/></code>
-      <code><a href="https://github.com/eduardo92005-debug/Cienc.Dados/tree/main/Econometria"><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=white" alt="R"/></code>
+        <!-- Ciencia Dados -->
+        <code> <a href="https://github.com/eduardo92005-debug/Cienc.Dados"> <img height="30" src="https://img.shields.io/badge/Data%20Science-blue?style=flat&logo=Power+BI&logoColor=white" style="borderRadius=9000px 30px;" alt="BI"/></a></code>
+        <!-- Matematica -->
+      <code><a href="https://github.com/eduardo92005-debug/Matematica"> <img height="30" src="https://img.shields.io/badge/Wolfram%20Alpha-wine?style=flat&logo=Wolfram&logoColor=FF3E00" alt="Wolf"/></a></code>
+    <!-- Power BI-->
+      <code><a href="#"><img height="30" src="https://img.shields.io/badge/Power%20BI-FFA500?style=flat&logo=Power+BI&logoColor=black" style="borderRadius=9000px 30px;" alt="BI"/></a></code>
+    <!-- Robotica -->
+      <code><a href="#"><img height="30" src="https://img.shields.io/badge/Robótica-9146FF?style=flat&logo=Instructables&logoColor=white" alt="Rob"/></a></code>
+     <!-- Robotica -->
+      <code><a href="https://github.com/eduardo92005-debug/Frontend-Cirurgia"><img height="30" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=flat&logo=Android&color=262673" alt="Android"/></a></code>
+        <br/>
+    <div markdown=1>
+     <code><a href="https://github.com/eduardo92005-debug/Games"><img height="30" src="https://img.shields.io/badge/Game%20Dev.-black?style=flat&logo=Unreal%20Engine&logoColor=white" alt="Unreal"/></a></code>
+    <code><a href="#"><img height="30" src="https://img.shields.io/badge/-Hackaday-171615?style=flat&logo=Hackaday&color=262673" alt="Aday"/></a></code>
+    <code><a href="https://github.com/eduardo92005-debug/Design-Patterns"><img height="30" src="https://img.shields.io/badge/-Design%20Patterns-171615?style=flat&logo=Designer%20News&color=262673" alt="DN"/></a></code>
+    <code><a href="https://github.com/eduardo92005-debug/Cienc.Dados/tree/main/Econometria"><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=white" alt="R"/></a></code>
+        </div>
     </div>
   </div>
 </section>
@@ -69,14 +76,14 @@
     <h3> :memo: &nbsp; Linguagens </h3>
       <div class="container-logos">
         <code><img height="30" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/Delphi-CC342D?style=flat&logo=Delphi&logoColor=white" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/CSS-E34F26?style=flat&logo=CSS3&logoColor=white" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/VBA-239120?style=flat&logo=Microsoft+Excel&logoColor=white" alt="Python"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C-sharp"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/C++-239120?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/PHP-904CD8?style=flat&logo=php&logoColor=white" alt="C++"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/CSS-E34F26?style=flat&logo=CSS3&logoColor=white" alt="CSS"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/VBA-239120?style=flat&logo=Microsoft+Excel&logoColor=white" alt="VBA"/></code>
       </div>    
   </div>
 </main>
