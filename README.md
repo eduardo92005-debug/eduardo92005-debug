@@ -29,7 +29,6 @@
   <article class="article-txt">
   <h3> :man: &nbsp;Sobre mim </h3>
 
-  &nbsp; <a href="#" alt="Dados">
       💻 Explorando o mundo da computação e da ciências de dados.
   - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.ufs.br">Universidade Federal de Sergipe</a>.
   - 💼 &nbsp; Trabalhando como **Estagiario de TI no CRECI-SE**; **Professor de Computação e Matemática** na plataforma online <a
