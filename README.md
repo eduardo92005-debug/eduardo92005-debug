@@ -28,8 +28,9 @@
   <div class="content"  name="entry.2366">
   <article class="article-txt">
   <h3> :man: &nbsp;Sobre mim </h3>
-
-      💻 Explorando o mundo da computação e da ciências de dados.
+      
+    
+   💻 Explorando o mundo da computação e da ciências de dados.
   - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.ufs.br">Universidade Federal de Sergipe</a>.
   - 💼 &nbsp; Trabalhando como **Estagiario de TI no CRECI-SE**; **Professor de Computação e Matemática** na plataforma online <a
       href="https://www.superprof.com.br/">Superprof</a> e **Programador Python, PHP, Web freelancer**
