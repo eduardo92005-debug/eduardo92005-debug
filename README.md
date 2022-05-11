@@ -154,11 +154,11 @@
       <h3> :telephone: &nbsp; Contatos</h3>
       </p>
       <p align="left">
-          <a address="mailto:eduardo92005@gmail.com" alt="Gmail">
+          <a href="mailto:eduardo92005@gmail.com">
               <img height=30
                   src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=eduardo92005@gmail.com" /></a>
          <a href="https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" alt="Linkedin">
-  <img height=30 src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" />
+  <img height=30 src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-silva-4a5b59204/" /></a>
       </p>
     </div>
   </div>
