@@ -77,12 +77,12 @@
       <div class="container-logos">
         <code><img height="30" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python"/></code>
         <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C-sharp"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/C++-239120?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></code>
         <code><img height="30" src="https://img.shields.io/badge/PHP-904CD8?style=flat&logo=php&logoColor=white" alt="C++"/></code>
         <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript"/></code>
         <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></code>
         <code><img height="30" src="https://img.shields.io/badge/CSS-E34F26?style=flat&logo=CSS3&logoColor=white" alt="CSS"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C-sharp"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/C++-239120?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></code>
         <code><img height="30" src="https://img.shields.io/badge/VBA-239120?style=flat&logo=Microsoft+Excel&logoColor=white" alt="VBA"/></code>
       </div>    
   </div>
@@ -120,9 +120,11 @@
           <code><img height="30" src="https://img.shields.io/badge/-Symfony-171615?style=flat&logo=Symfony&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Vue.js-171615?style=flat&logo=Vue.js&color=262673" alt="Python"/></code>
             <code><img height="30" src="https://img.shields.io/badge/-Svelte-171615?logo=svelte&style=flat&color=262673&logoColor=orange" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Unittest-171615?style=flat&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Tests-171615?style=flat&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=blue&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Linux-171615?style=flat&logo=Linux&logoColor=black&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Docker-171615?style=flat&logo=Docker&logoColor=blue&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-JIRA-171615?style=flat&logo=JIRA&logoColor=blue&color=262673" alt="Python"/></code>
         </div>
     </ul>
   </div>
