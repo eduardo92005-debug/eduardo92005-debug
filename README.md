@@ -119,11 +119,11 @@
           <code><img height="30" src="https://img.shields.io/badge/-JQuery-171615?style=flat&logo=JQuery&color=262673&logoColor=blue" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Symfony-171615?style=flat&logo=Symfony&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Vue.js-171615?style=flat&logo=Vue.js&color=262673" alt="Python"/></code>
-            <code><img height="30" src="https://img.shields.io/badge/-Svelte-171615?logo=svelte&style=flat&color=262673&logoColor=orange" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Tests-171615?style=flat&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Svelte-171615?logo=svelte&style=flat&color=262673&logoColor=orange" alt="Python"/></code>          <code><img height="30" src="https://img.shields.io/badge/-Tests-171615?style=flat&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=blue&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Linux-171615?style=flat&logo=Linux&logoColor=black&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Docker-171615?style=flat&logo=Docker&logoColor=blue&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Laravel-171615?logo=Laravel&style=flat&color=262673&logoColor=orange" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-JIRA-171615?style=flat&logo=JIRA&logoColor=blue&color=262673" alt="Python"/></code>
         </div>
     </ul>
