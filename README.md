@@ -14,8 +14,7 @@
                     </svg>
                 </a>
                 <strong>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! </strong>
-                <a href="#"><img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" width="30px"
-                        style="max-width:100%;"></a>
+                🤝
             </h2>
             </p>
         </div>
