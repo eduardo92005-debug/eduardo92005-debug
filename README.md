@@ -37,7 +37,7 @@
       href="https://www.superprof.com.br/">Superprof</a>;
       - **Programming tutor** on the online platform <a
       href="https://www.contradp.com.br">ContraDP</a>;
-      - **Freelancer Fullstack Developer (Wordpress,Symfony,Vue.JS)**
+      - **Freelancer Fullstack Developer (Wordpress, Symfony, Vue.JS)**
   - 👀 &nbsp;   I am writing to recommend that you consider playing my game, <a href="https://99lab.itch.io/theultimatescroll"> The Ultimate Scroll </a>   
   - ❗❗ &nbsp;The information below is organized from the highest level of technology experience to the lowest.
     
