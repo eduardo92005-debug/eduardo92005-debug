@@ -96,7 +96,7 @@
 <main>
 <section class="sec-body" name="entry.1223">
   <div class="content" name="entry.2334">
-    <h3> :computer: &nbsp; Frameworks e ferramentas </h3>
+    <h3> :computer: &nbsp; Frameworks and tools </h3>
     <ul>
         <h3>
             <li>:iphone: Mobile</li>
@@ -115,7 +115,7 @@
   <div class="content" name="entry.2335">
     <ul>
         <h3>
-            <li> 🌎 Web e geral </li>
+            <li> 🌎 Web and others </li>
         </h3>
         <div class="container-logo">
           <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=262673&logoColor=563d7c" alt="Python"/></code>
@@ -140,11 +140,13 @@
 <main>
 <section class="sec-body">
   <div class="content">
-  <h3> 🎨 &nbsp; Arquiteturas ou padrões utilizados recentemente </h3>
+  <h3> 🎨 &nbsp; Recently used architectures or standards </h3>
     <ul>
       <li> Model-View-Controller </li>
+      <li> Model-Template-View </li>
       <li> Factory Method </li>
       <li> SOLID </li>
+      <li> Clean Code </li>
     </ul>
   </div>
 </section>
