@@ -84,6 +84,7 @@
         <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript"/></code>
         <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></code>
         <code><img height="30" src="https://img.shields.io/badge/CSS-E34F26?style=flat&logo=CSS3&logoColor=white" alt="CSS"/></code>
+        <code><img height="30" src="https://img.shields.io/badge/SQL-E34F26?style=flat&logo=mysql&logoColor=white" alt="CSS"/></code>
         <code><a href="https://github.com/eduardo92005-debug/Cienc.Dados/tree/main/Econometria"><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=white" alt="R"/></a></code>
         <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/></code>
         <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C-sharp"/></code>
