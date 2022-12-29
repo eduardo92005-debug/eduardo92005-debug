@@ -26,15 +26,20 @@
 <p align="left">
   <div class="content"  name="entry.2366">
   <article class="article-txt">
-  <h3> :man: &nbsp;Sobre mim </h3>
+  <h3> :man: &nbsp;About me </h3>
       
     
-   💻 Explorando o mundo da computação e da ciências de dados.
-  - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.ufs.br">Universidade Federal de Sergipe</a>.
-  - 💼 &nbsp; Trabalhando como **Estagiario de TI no CRECI-SE**; **Professor de Computação e Matemática** na plataforma online <a
-      href="https://www.superprof.com.br/">Superprof</a> e **Programador Python, PHP, Web freelancer**
-  - 👀 &nbsp; Dá uma olhada em um dos jogos que já criei <a href="https://99lab.itch.io/theultimatescroll"> The Ultimate Scroll </a>     
-  - ❗❗ &nbsp; As informações abaixo seguem do maior nível de experiência na tecnologia para o menor.
+   💻 Exploring the world of computing and data science.
+  - 🎓 &nbsp; Studying **Computer Engineering** at the <a href="https://www.ufs.br">Universidade Federal de Sergipe</a>.
+  - 💼 &nbsp; **Current jobs:**
+      - Working as an **IT Intern at <a href="https:/crecise.gov.br">CRECI-SE</a>**; 
+      - **Programming and Mathematics Instructor** on the online platform <a
+      href="https://www.superprof.com.br/">Superprof</a>;
+      - **Programming tutor** on the online platform <a
+      href="https://www.contradp.com.br">ContraDP</a>;
+      - **Freelancer Fullstack Developer (Wordpress,Symfony,Vue.JS)**
+  - 👀 &nbsp;   I am writing to recommend that you consider playing my game, <a href="https://99lab.itch.io/theultimatescroll"> The Ultimate Scroll </a>   
+  - ❗❗ &nbsp;The information below is organized from the highest level of technology experience to the lowest.
     
   </article>
   </div>
@@ -45,7 +50,7 @@
 <main>
 <section class="sec-body">
   <div class="content" name="entry.2346">
-  <h3> 🤔 &nbsp; Tópicos de interesse </h3>
+  <h3> 🤔 &nbsp; Topics of interest </h3>
     <div class="container-logos">
         <!-- Ciencia Dados -->
         <code> <a href="https://github.com/eduardo92005-debug/Cienc.Dados"> <img height="30" src="https://img.shields.io/badge/Data%20Science-blue?style=flat&logo=Power+BI&logoColor=white" style="borderRadius=9000px 30px;" alt="BI"/></a></code>
@@ -54,7 +59,7 @@
     <!-- Power BI-->
       <code><a href="#"><img height="30" src="https://img.shields.io/badge/Power%20BI-FFA500?style=flat&logo=Power+BI&logoColor=black" style="borderRadius=9000px 30px;" alt="BI"/></a></code>
     <!-- Robotica -->
-      <code><a href="#"><img height="30" src="https://img.shields.io/badge/Robótica-9146FF?style=flat&logo=Instructables&logoColor=white" alt="Rob"/></a></code>
+      <code><a href="#"><img height="30" src="https://img.shields.io/badge/Robots-9146FF?style=flat&logo=Instructables&logoColor=white" alt="Rob"/></a></code>
      <!-- Robotica -->
       <code><a href="https://github.com/eduardo92005-debug/Frontend-Cirurgia"><img height="30" src="https://img.shields.io/badge/-Mobile%20Dev.-171615?style=flat&logo=Android&color=262673" alt="Android"/></a></code>
         <br/>
@@ -72,14 +77,15 @@
 <main>
 <section class = "sec-body">
   <div class="content" name="entry.2345">
-    <h3> :memo: &nbsp; Linguagens </h3>
+    <h3> :memo: &nbsp; Languages </h3>
       <div class="container-logos">
         <code><img height="30" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python"/></code>
-        <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/></code>
         <code><img height="30" src="https://img.shields.io/badge/PHP-904CD8?style=flat&logo=php&logoColor=white" alt="C++"/></code>
         <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript"/></code>
         <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></code>
         <code><img height="30" src="https://img.shields.io/badge/CSS-E34F26?style=flat&logo=CSS3&logoColor=white" alt="CSS"/></code>
+        <code><a href="https://github.com/eduardo92005-debug/Cienc.Dados/tree/main/Econometria"><img height="30" src="https://img.shields.io/badge/-R-171615?style=flat&logo=R&logoColor=blue&color=white" alt="R"/></a></code>
+        <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/></code>
         <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C-sharp"/></code>
         <code><img height="30" src="https://img.shields.io/badge/C++-239120?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></code>
         <code><img height="30" src="https://img.shields.io/badge/VBA-239120?style=flat&logo=Microsoft+Excel&logoColor=white" alt="VBA"/></code>
@@ -112,17 +118,18 @@
             <li> 🌎 Web e geral </li>
         </h3>
         <div class="container-logo">
-          <code><img height="30" src="https://img.shields.io/badge/-React-CC342D?style=flat&logo=React&color=262673" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Django-171615?style=flat&logo=Django&color=262673&logoColor=darkgreen" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=262673&logoColor=563d7c" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-JQuery-171615?style=flat&logo=JQuery&color=262673&logoColor=blue" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Symfony-171615?style=flat&logo=Symfony&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Vue.js-171615?style=flat&logo=Vue.js&color=262673" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Svelte-171615?logo=svelte&style=flat&color=262673&logoColor=orange" alt="Python"/></code>          <code><img height="30" src="https://img.shields.io/badge/-Tests-171615?style=flat&color=262673" alt="Python"/></code>
+          <code><img height="30" src="https://img.shields.io/badge/-Svelte-171615?logo=svelte&style=flat&color=262673&logoColor=orange" alt="Python"/></code>          <code><img height="30" src="https://img.shields.io/badge/-Flask-171615?style=flat&color=262673" alt="Python"/></code>
+                      <code><img height="30" src="https://img.shields.io/badge/-Django-171615?style=flat&logo=Django&color=262673&logoColor=darkgreen" alt="Python"/></code>
+              <code><img height="30" src="https://img.shields.io/badge/-Laravel-171615?logo=Laravel&style=flat&color=262673&logoColor=orange" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=blue&color=262673" alt="Python"/></code>
+            <code><img height="30" src="https://img.shields.io/badge/-AWS-171615?style=flat&color=262673&logo=amazon" alt="Python"/></code>
+            <code><img height="30" src="https://img.shields.io/badge/-Wordpress-171615?style=flat&color=262673&logo=wordpress" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Linux-171615?style=flat&logo=Linux&logoColor=black&color=262673" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-Docker-171615?style=flat&logo=Docker&logoColor=blue&color=262673" alt="Python"/></code>
-          <code><img height="30" src="https://img.shields.io/badge/-Laravel-171615?logo=Laravel&style=flat&color=262673&logoColor=orange" alt="Python"/></code>
           <code><img height="30" src="https://img.shields.io/badge/-JIRA-171615?style=flat&logo=JIRA&logoColor=blue&color=262673" alt="Python"/></code>
         </div>
     </ul>
