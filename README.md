@@ -160,7 +160,7 @@
         src="https://github-readme-stats.vercel.app/api?username=eduardo92005-debug&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=blue&cache_seconds=2300">
     <p align="left">
      <div class="content" name="entry.2300">
-      <h3> :telephone: &nbsp; Contatos</h3>
+      <h3> :telephone: &nbsp; Contact me</h3>
       </p>
       <p align="left">
           <a href="mailto:eduardo92005@gmail.com">
