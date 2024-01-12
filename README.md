@@ -32,7 +32,7 @@
    💻 Exploring the world of computing and data science.
   - 🎓 &nbsp; Studying **Computer Engineering** at the <a href="https://www.ufs.br">Universidade Federal de Sergipe</a>.
   - 💼 &nbsp; **Current jobs:**
-      - Working as an **IT Intern at <a href="https:/crecise.gov.br">CRECI-SE</a>**; 
+      - Working as an **IT Intern at <a href="https:/crecise.gov.br">AprendaCerto</a>**; 
       - **Programming and Mathematics Instructor** on the online platform <a
       href="https://www.superprof.com.br/">Superprof</a>;
       - **Programming tutor** on the online platform <a
